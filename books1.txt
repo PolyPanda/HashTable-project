@@ -1,0 +1,44 @@
+Pride and Prejudice 
+Jane Austen
+10.95
+2345678
+
+Bleak House
+Charles Dickens
+8.99
+3567897
+
+A Room with a View
+E.M. Forster
+7.50
+1177889
+
+Jane Eyre
+Charlotte Bronte
+7.90
+2345674
+
+The Woman in White
+Wilkie Collins
+10.75
+3256789
+
+Lady Audley's Secret
+Mary Elizabeth Braddon
+5.50
+1212134
+
+Gulliver's Travels
+Jonathan Swift
+6.80
+3434343
+
+Middlemarch
+George Elliot
+12.50
+1256743
+
+Vanity Fair
+William Thackery
+11.99
+3456839

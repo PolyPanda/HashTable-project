@@ -1,0 +1,44 @@
+Pedro Paramo 
+Juan Rulfo
+8.95
+1123456
+
+Como agua para chocolate
+Laura Esquivel
+6.90
+2375689
+
+La casa de los espiritus
+Isabel Allende
+7.50
+2117889
+
+Los diarios de motocicleta
+Ernesto Che Guevara
+10.99
+2241174
+
+Cien anos de soledad
+Gabriel Garcia Marquez
+9.75
+3556789
+
+El alquimista
+Paulo Coelho
+8.50
+3212132
+
+La casa en Mango Street
+Sandra Cisneros
+6.80
+1134231
+
+El beso de la mujer arana
+Manuel Puig
+7.75
+3456743
+
+Cajas de carton
+Francisco Jimenez
+10.99
+2256839
